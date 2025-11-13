@@ -1,0 +1,9 @@
+1 ) Soil temperature data - RISMA ON2 Latitude45° 24′ 5″ Longitude- 74° 56′ 52″
+
+Downloaded here: https://agrifood.aquaticinformatics.net/Data/Export
+More info https://agriculture.canada.ca/en/agricultural-production/soil-and-land/about-real-time-situ-soil-monitoring-agriculture-network-metadata 
+
+2) Air temperature and precipitation - Ottawa Intl Station Latitude 45.32° Longitude -75.67°
+
+Downloaded here: https://climate.weather.gc.ca/historical_data/search_historic_data_e.html 
+
